@@ -1,4 +1,4 @@
-# computational-finance
+# Computational Finance
 Computational Finance Projects as a part of my MSc Artificial Intelligence programme at the University of Southampton
 
 ## Contents
